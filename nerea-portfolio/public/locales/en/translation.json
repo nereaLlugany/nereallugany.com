@@ -1,0 +1,228 @@
+{
+  "hero": {
+    "role": "MULTIMEDIA CREATOR - DESIGN, ANIMATIONS & GAME ART",
+    "title_start": "Hi! I'm",
+    "name": "Nerea",
+    "title_end": "I design bold visuals and animations.",
+    "desc": "I build playable prototypes for Unity and Unreal, and design high-quality 3D & 2D animations, motion graphics, game assets, graphic design and realtime VFX for games, apps, websites and campaigns.",
+    "btn_projects": "View Projects",
+    "btn_reel": "Watch Reel",
+    "btn_cv": "Download CV"
+  },
+  "services": {
+    "pill": "WHAT I OFFER",
+    "heading": "Design. Express. Animate. Create.",
+    "subheading": "I transform ideas into brand-first visual systems, dynamic motion graphics, and high-quality 2D & 3D animations that perform across every platform.",
+    "graphic": "Graphic Design",
+    "graphic_desc": "Brand systems and campaign visuals designed to convert across web, ads, print and physical merchandise.",
+    "motion": "Motion Graphics",
+    "motion_desc": "Cinematic trailers and micro-motion tailored for performance, from hero videos to 6s social cutdowns.",
+    "anim": "2D & 3D Animation",
+    "anim_desc": "From stylized 2D motion to production 3D characters and game-ready asset pipelines for Unity and Unreal.",
+    "learn_more": "Learn more",
+    "cta_text": "Curious how your idea could look in motion or design?",
+    "cta_btn": "Request a brief call"
+  },
+  "process": {
+    "title": "My Process"
+  },
+  "skills": {
+    "section_pill": "SKILLS & TOOLS",
+    "section_title": "What I can build",
+    "section_desc": "I have capabilities in front-end and back-end webpages and apps, production 2D/3D animations, motion graphics, and engine ready game assets.",
+    "see_work_btn": "See my work and designs"
+  },
+  "portfolio": {
+    "pill": "BEST WORK SO FAR",
+    "title": "Multimedia portfolio: games, apps & post-production",
+    "browse_all": "Browse all work"
+  },
+  "about": {
+    "pill": "ABOUT ME",
+    "heading": "I create 3D & 2D animations, motion-driven visuals and engine-ready game assets.",
+    "p1": "I am Nerea Wenting Llugany Montoya. I specialize in 3D and 2D animation, motion graphics and graphic design, and I develop game assets ready for Unity & Unreal.",
+    "p2": "My focus is on craft and integration, polished animation loops, VFX-ready elements and asset packages that plug directly into game engines or production pipelines.",
+    "btn_story": "Read my full story",
+    "btn_unity": "View Unity project",
+    "btn_email": "Email me →",
+    "avail": "freelance and junior roles."
+  },
+  "cta": {
+    "pill": "READY TO MOVE YOUR IDEA?",
+    "title": "Bring words to life, turning concepts into cinematic visuals, animations & game assets.",
+    "btn_pricing": "Request pricing",
+    "or": "or email me"
+  },
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "footer": {
+    "desc": "Multimedia Creator & VFX Artist. Building playable prototypes and visuals.",
+    "location": "Barcelona, Spain",
+    "col_services": "SERVICES",
+    "col_nav": "NAVIGATION",
+    "col_connect": "CONNECT",
+    "serv_1": "2D & 3D animations",
+    "serv_2": "Motion graphics & Identity",
+    "serv_3": "Video post-production",
+    "serv_4": "Unity & Unreal prototyping",
+    "rights": "All rights reserved."
+  },
+  "process": {
+    "badge": "MY PROCESS",
+    "title": "From concept to engine-ready assets",
+    "desc": "A structured pipeline designed to bridge the gap between creative vision and technical implementation in Unity or Unreal.",
+    "btn_consult": "Book consultation",
+    "btn_contact": "Contact me",
+    "typical_output": "TYPICAL OUTPUTS",
+    "steps": {
+      "1": {
+        "title": "Discovery & Briefing",
+        "desc": "We define the scope, technical constraints, and artistic goals. I analyze your existing pipeline to ensure my assets fit perfectly.",
+        "outputs": ["Project brief", "Technical requirements list", "Timeline estimate"]
+      },
+      "2": {
+        "title": "Art Direction & Concepts",
+        "desc": "I create moodboards, sketches, or style frames to align on the visual direction before moving into expensive production phases.",
+        "outputs": ["Moodboards", "Concept sketches", "Style frames (PDF)"]
+      },
+      "3": {
+        "title": "Prototyping & Blocking",
+        "desc": "For 3D/Games, I create greybox models or rough animations to test timing and functionality within the engine immediately.",
+        "outputs": ["Greybox assets", "Animatics (MP4)", "Rough Unity/Unreal scene"]
+      },
+      "4": {
+        "title": "Production & Animation",
+        "desc": "The heavy lifting. Modeling, texturing, rigging, and animating. I focus on clean topology and optimized performance.",
+        "outputs": ["High-poly/Low-poly meshes", "Animation clips", "Source files (.blend, .aep)"]
+      },
+      "5": {
+        "title": "Technical Integration",
+        "desc": "I import assets into the engine, setting up materials, prefabs, animation controllers, and particle systems.",
+        "outputs": ["Unity Prefabs / Unreal Blueprints", "Material setup", "VFX Particle systems"]
+      },
+      "6": {
+        "title": "Polish & Handover",
+        "desc": "Final optimization, bug fixing, and file organization. I deliver a clean package ready for your developers to use.",
+        "outputs": ["Final Unity Package / Unreal Project", "Optimized FBX/GLTF", "Documentation"]
+      }
+    }
+  },
+  "portfolio": {
+    "view_project": "View Project"
+  },
+  "projects": {
+    "thorny": {
+      "title": "Thorny Seasons",
+      "category": "Unity Prototype",
+      "meta": "2024 | University project | Game",
+      "desc": "A 2D platformer developed in Unity (C#). Features custom physics, a persistent data economy system, and a Finite State Machine (FSM) boss battle."
+    },
+    "monsters": {
+      "title": "Monsters, Inc.",
+      "category": "Audio Post-Production",
+      "meta": "2024 | University project | Audio",
+      "desc": "A technical sound redesign using Reaper. Demonstrates the complete foley process, recording custom textures and mixing them with EQ and Reverb."
+    },
+    "vincent": {
+      "title": "Vincent's Journey",
+      "category": "3D Character Animation",
+      "meta": "2024 | University project | 3D Animation",
+      "desc": "A specialized 3D animation showcase using Blender and Rigify. Explores body mechanics by applying three distinct emotional states to a walk cycle."
+    },
+    "banana": {
+      "title": "Operation Banana",
+      "category": "2D Rigging",
+      "meta": "2023 | University project | 2D Animation",
+      "desc": "A character animation study utilizing Adobe Animate. Showcases the technical challenges of a weighted walk cycle and phoneme-based lip-syncing."
+    }
+  },
+  "skills": {
+    "section_pill": "SKILLS & TOOLS",
+    "section_title": "What I can build",
+    "section_desc": "I have capabilities in front-end and back-end webpages and apps, production 2D/3D animations, motion graphics, and engine ready game assets.",
+    "see_work_btn": "See my work and designs",
+    "meters_title": "Proficiency Level",
+    "default_desc": "Select a tool to see how I use it in my workflow.",
+    "categories": {
+      "design": "Design",
+      "animation": "Animation",
+      "games": "Games",
+      "web": "Web/Apps",
+      "devops": "DevOps",
+      "audio": "Audio"
+    },
+    "meter_labels": {
+      "0": "Rigging & Timing",
+      "1": "React & Frontend",
+      "2": "Databases & APIs",
+      "3": "Brand & Print",
+      "4": "Game Logic (C#/C++)",
+      "5": "Mobile Dev",
+      "6": "Compositing"
+    },
+    "tools": {
+      "ps": "Photo manipulation, texture painting for 3D models, and digital art.",
+      "ai": "Vector graphics for scalable UI assets, logos, and print layouts.",
+      "fig": "UI/UX Prototyping, wireframing, and design systems.",
+      "can": "Quick social media asset creation and layout adjustments.",
+      "ae": "Motion graphics, VFX compositing, and character animation.",
+      "pr": "Video editing, color correction, and final delivery formatting.",
+      "bl-a": "3D modeling, sculpting, and animation pipelines.",
+      "p5": "Creative coding and generative art visualizations.",
+      "proc": "Java-based creative coding for interactive installations.",
+      "unity": "Game development, C# scripting, and particle systems.",
+      "ue": "High-fidelity rendering, Blueprints, and cinematic sequences.",
+      "bl-g": "Asset creation optimized for game engines (low-poly/UVs).",
+      "ard": "Physical computing and microcontroller programming.",
+      "p5-g": "Web-based mini-games and interactive canvas elements.",
+      "proc-g": "Experimental game mechanics and procedural generation.",
+      "html": "Semantic markup and structural web design.",
+      "css": "Responsive styling, Flexbox/Grid, and animations.",
+      "js": "Interactive logic, DOM manipulation, and modern ES6+ syntax.",
+      "react": "Component-based architecture, state management, and hooks.",
+      "ang": "Structured frontend framework for scalable applications.",
+      "flut": "Cross-platform mobile app development (iOS/Android).",
+      "and": "Native Android development and Material Design implementation.",
+      "xcode": "iOS environment setup and building for Apple devices.",
+      "fire": "Real-time databases, authentication, and cloud functions.",
+      "wp": "CMS management, theme customization, and plugin integration.",
+      "elem": "Visual page building for rapid WordPress deployment.",
+      "fig-h": "Developer handoff, inspecting specs, and asset export.",
+      "snip": "Reusable code snippets for rapid prototyping.",
+      "git": "Version control, branching strategies, and team collaboration.",
+      "php": "Server-side scripting and backend logic integration.",
+      "fire-d": "Backend deployment and database management.",
+      "qt": "Cross-platform application framework (C++).",
+      "reaper": "Audio editing, sound design, and mixing.",
+      "aud": "Quick audio recording and waveform editing."
+    }
+  },
+  "projects": {
+    "page_title": "PROJECTS",
+    "filter_all": "All",
+    "filter_game": "Games",
+    "filter_audio": "Audio",
+    "filter_3d": "3D Animation",
+    "filter_2d": "2D Animation",
+    "no_results": "No projects found."
+  },
+  "faq": {
+    "q1": "What tools and tech did you use?",
+    "a1": "Each project lists the exact stack (e.g., Unity, Blender, After Effects, C#) and delivered formats (playable build, MP4, FBX). If you would like to know exactly which tools or tools I know, you can go to the About page to learn more.",
+    "q2": "Which projects are most relevant to my needs?",
+    "a2": "You can quickly find the most relevant work by using the category filters at the top of the page: Design, Animation, Games, Web/Apps and Audio. Each case study also includes a short 1-line outcome, so you can instantly identify the ones that match your goals. If you're unsure, feel free to contact me about what you're looking for and I'll point you to the best examples.",
+    "q3": "What problem were you solving and what was your approach?",
+    "a3": "Each case study follows: Problem → Constraints → Approach → Deliverables → Results. I include key decisions and a short visual process (wireframes, before/after).",
+    "q4": "What is your process?",
+    "a4": "My usual process: brief → research & reference gathering → prototype or draft → feedback & iteration → final delivery + hand-over + documentation. I keep you involved at every step, so you always know what's going on.",
+    "q5": "How often do you update the portfolio?",
+    "a5": "I refresh the portfolio quarterly and add significant new case studies as they finish, so the site reflects my current skills and availability.",
+    "q6": "Do you follow coding / design best practices (version control, consistent naming, documentation)?",
+    "a6": "Yes, for digital or code-based projects I use version control and comment code; for design I organise layers, name elements logically, and keep documentation for deliverables."
+  }
+}

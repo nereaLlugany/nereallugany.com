@@ -1,0 +1,228 @@
+{
+  "hero": {
+    "role": "CREADORA MULTIMÈDIA - DISSENY, ANIMACIÓ I ART PER A JOCS",
+    "title_start": "Hola! Sóc la",
+    "name": "Nerea",
+    "title_end": "dissenyo visuals atrevits i animacions.",
+    "desc": "Construeixo prototips jugables per a Unity i Unreal, i dissenyo animacions 2D i 3D d'alta qualitat, motion graphics, assets per a jocs, disseny gràfic i VFX en temps real per a jocs, aplicacions, webs i campanyes.",
+    "btn_projects": "Veure Projectes",
+    "btn_reel": "Veure Reel",
+    "btn_cv": "Descarregar CV"
+  },
+  "services": {
+    "pill": "QUÈ OFEREIXO",
+    "heading": "Dissenyar. Expressar. Animar. Crear.",
+    "subheading": "Transformo idees en sistemes visuals de marca, motion graphics dinàmics i animacions 2D i 3D d'alta qualitat que funcionen a totes les plataformes.",
+    "graphic": "Disseny Gràfic",
+    "graphic_desc": "Sistemes de marca i visuals de campanya dissenyats per convertir a web, publicitat, impressió i marxandatge físic.",
+    "motion": "Motion Graphics",
+    "motion_desc": "Tràilers cinematogràfics i micro-animacions adaptades al rendiment, des de vídeos principals fins a talls de 6s per a xarxes socials.",
+    "anim": "Animació 2D i 3D",
+    "anim_desc": "Des de moviment 2D estilitzat fins a personatges 3D de producció i pipelines d'assets llestos per a Unity i Unreal.",
+    "learn_more": "Saber-ne més",
+    "cta_text": "Curiós per veure com lluiria la teva idea en moviment o disseny?",
+    "cta_btn": "Sol·licitar trucada breu"
+  },
+  "process": {
+    "title": "El Meu Procés"
+  },
+  "skills": {
+    "section_pill": "HABILITATS I EINES",
+    "section_title": "El que puc construir",
+    "section_desc": "Tinc capacitats en desenvolupament web i apps (front-end/back-end), animacions de producció 2D/3D, motion graphics i assets llestos per a motors de joc.",
+    "see_work_btn": "Veure els meus treballs"
+  },
+  "portfolio": {
+    "pill": "MILLORS TREBALLS",
+    "title": "Portafoli multimèdia: jocs, apps i postproducció",
+    "browse_all": "Veure tot"
+  },
+  "about": {
+    "pill": "SOBRE MI",
+    "heading": "Creeu animacions 3D i 2D, visuals impulsats per moviment i assets llestos per a jocs.",
+    "p1": "Sóc la Nerea Wenting Llugany Montoya. M'especialitzo en animació 3D i 2D, motion graphics i disseny gràfic, i desenvolupo assets llestos per a Unity i Unreal.",
+    "p2": "El meu focus està en l'artesania i la integració, bucles d'animació polits, elements llestos per a VFX i paquets d'assets que es connecten directament a motors de joc o pipelines de producció.",
+    "btn_story": "Llegir la meva història",
+    "btn_unity": "Veure projecte Unity",
+    "btn_email": "Envia'm un correu →",
+    "avail": "rols freelance i júnior."
+  },
+  "cta": {
+    "pill": "LLEST PER MOURE LA TEVA IDEA?",
+    "title": "Dóna vida a les paraules, convertint conceptes en visuals cinematogràfics, animacions i assets de joc.",
+    "btn_pricing": "Demanar pressupost",
+    "or": "o envia'm un correu"
+  },
+  "nav": {
+    "home": "Inici",
+    "projects": "Projectes",
+    "services": "Serveis",
+    "about": "Sobre mi",
+    "contact": "Contacte"
+  },
+  "footer": {
+    "desc": "Creadora Multimèdia i Artista VFX. Construint prototips jugables i visuals.",
+    "location": "Barcelona, Espanya",
+    "col_services": "SERVEIS",
+    "col_nav": "NAVEGACIÓ",
+    "col_connect": "CONNECTAR",
+    "serv_1": "Animacions 2D i 3D",
+    "serv_2": "Motion graphics i Identitat",
+    "serv_3": "Postproducció de vídeo",
+    "serv_4": "Prototipatge Unity i Unreal",
+    "rights": "Tots els drets reservats."
+  },
+  "process": {
+    "badge": "EL MEU PROCÉS",
+    "title": "Del concepte al motor de joc",
+    "desc": "Un pipeline estructurat dissenyat per unir la visió creativa amb la implementació tècnica a Unity o Unreal.",
+    "btn_consult": "Reservar consulta",
+    "btn_contact": "Contactar",
+    "typical_output": "ENTREGABLES TÍPICS",
+    "steps": {
+      "1": {
+        "title": "Descobriment i Briefing",
+        "desc": "Definim l'abast, les limitacions tècniques i els objectius artístics. Analitzo el teu pipeline existent per assegurar que els meus assets encaixin perfectament.",
+        "outputs": ["Brief del projecte", "Llista de requisits tècnics", "Estimació de temps"]
+      },
+      "2": {
+        "title": "Direcció d'Art i Conceptes",
+        "desc": "Creo moodboards, esbossos o style frames per alinear la direcció visual abans de passar a fases de producció costoses.",
+        "outputs": ["Moodboards", "Esbossos conceptuals", "Style frames (PDF)"]
+      },
+      "3": {
+        "title": "Prototipatge i Blocking",
+        "desc": "Per a 3D/Jocs, creo models greybox o animacions en esborrany per provar temps i funcionalitat dins del motor immediatament.",
+        "outputs": ["Assets Greybox", "Animàtiques (MP4)", "Escena preliminar Unity/Unreal"]
+      },
+      "4": {
+        "title": "Producció i Animació",
+        "desc": "La feina grossa. Modelatge, texturitzat, rigging i animació. Em concentro en topologia neta i rendiment optimitzat.",
+        "outputs": ["Malles High/Low poly", "Clips d'animació", "Arxius font (.blend, .aep)"]
+      },
+      "5": {
+        "title": "Integració Tècnica",
+        "desc": "Importo assets al motor, configurant materials, prefabs, controladors d'animació i sistemes de partícules.",
+        "outputs": ["Unity Prefabs / Unreal Blueprints", "Configuració de materials", "Sistemes de partícules VFX"]
+      },
+      "6": {
+        "title": "Poliment i Entrega",
+        "desc": "Optimització final, correcció d'errors i organització d'arxius. Entrego un paquet net llest per als teus desenvolupadors.",
+        "outputs": ["Unity Package / Projecte Unreal final", "FBX/GLTF optimitzats", "Documentació"]
+      }
+    }
+  },
+  "portfolio": {
+    "view_project": "Veure Projecte"
+  },
+  "projects": {
+    "thorny": {
+      "title": "Thorny Seasons",
+      "category": "Prototip Unity",
+      "meta": "2024 | Projecte universitari | Videojoc",
+      "desc": "Un plataformes 2D desenvolupat a Unity (C#). Inclou físiques personalitzades, sistema d'economia persistent i una batalla de cap amb Màquina d'Estats Finits (FSM)."
+    },
+    "monsters": {
+      "title": "Monstres, S.A.",
+      "category": "Postproducció d'Àudio",
+      "meta": "2024 | Projecte universitari | Àudio",
+      "desc": "Redissenyo tècnic de so fent servir Reaper. Demostra el procés complet de foley, gravació de textures personalitzades i mescla amb EQ i Reverb."
+    },
+    "vincent": {
+      "title": "El Viatge d'en Vincent",
+      "category": "Animació de Personatges 3D",
+      "meta": "2024 | Projecte universitari | Animació 3D",
+      "desc": "Mostra d'animació 3D especialitzada fent servir Blender i Rigify. Explora la mecànica corporal aplicant tres estats emocionals diferents a un cicle de caminada."
+    },
+    "banana": {
+      "title": "Operació Banana",
+      "category": "Rigging 2D",
+      "meta": "2023 | Projecte universitari | Animació 2D",
+      "desc": "Estudi d'animació de personatges utilitzant Adobe Animate. Mostra els reptes tècnics d'un cicle de caminada amb pes i sincronització labial."
+    }
+  },
+  "skills": {
+    "section_pill": "HABILITATS I EINES",
+    "section_title": "El que puc construir",
+    "section_desc": "Tinc capacitats en desenvolupament web i apps (front-end/back-end), animacions de producció 2D/3D, motion graphics i assets llestos per a motors de joc.",
+    "see_work_btn": "Veure els meus treballs",
+    "meters_title": "Nivell de Competència",
+    "default_desc": "Selecciona una eina per veure com l'utilitzo en el meu flux de treball.",
+    "categories": {
+      "design": "Disseny",
+      "animation": "Animació",
+      "games": "Jocs",
+      "web": "Web/Apps",
+      "devops": "DevOps",
+      "audio": "Àudio"
+    },
+    "meter_labels": {
+      "0": "Rigging i Timing",
+      "1": "React i Frontend",
+      "2": "Bases de dades i APIs",
+      "3": "Marca i Impressió",
+      "4": "Lògica de Jocs",
+      "5": "Desenvolupament Mòbil",
+      "6": "Composició"
+    },
+    "tools": {
+      "ps": "Manipulació fotogràfica, pintura de textures 3D i art digital.",
+      "ai": "Gràfics vectorials per a UI escalable, logos i maquetació.",
+      "fig": "Prototipatge UI/UX, wireframes i sistemes de disseny.",
+      "can": "Creació ràpida d'assets per a xarxes socials.",
+      "ae": "Motion graphics, composició VFX i animació de personatges.",
+      "pr": "Edició de vídeo, correcció de color i format final.",
+      "bl-a": "Modelatge 3D, escultura i pipelines d'animació.",
+      "p5": "Programació creativa i visualització generativa.",
+      "proc": "Programació creativa en Java per a instal·lacions interactives.",
+      "unity": "Desenvolupament de jocs, scripting C# i sistemes de partícules.",
+      "ue": "Renderitzat d'alta fidelitat, Blueprints i cinemàtiques.",
+      "bl-g": "Creació d'assets optimitzats per a motors (low-poly/UVs).",
+      "ard": "Computació física i programació de microcontroladors.",
+      "p5-g": "Mini-jocs web i elements de canvas interactius.",
+      "proc-g": "Mecàniques de joc experimentals i generació procedimental.",
+      "html": "Marcat semàntic i disseny web estructural.",
+      "css": "Estils responsius, Flexbox/Grid i animacions.",
+      "js": "Lògica interactiva, manipulació del DOM i sintaxi ES6+.",
+      "react": "Arquitectura basada en components, estats i hooks.",
+      "ang": "Framework estructurat per a aplicacions escalables.",
+      "flut": "Desenvolupament d'apps multiplataforma (iOS/Android).",
+      "and": "Desenvolupament natiu Android i implementació Material Design.",
+      "xcode": "Configuració d'entorn iOS i compilació per a Apple.",
+      "fire": "Bases de dades en temps real, autenticació i cloud functions.",
+      "wp": "Gestió de CMS, personalització de temes i plugins.",
+      "elem": "Construcció visual per a desplegament ràpid a WordPress.",
+      "fig-h": "Entrega a desenvolupadors, inspecció i exportació.",
+      "snip": "Snippets de codi reutilitzables per a prototipatge ràpid.",
+      "git": "Control de versions, branques i col·laboració en equip.",
+      "php": "Scripting del costat del servidor i lògica backend.",
+      "fire-d": "Desplegament backend i gestió de bases de dades.",
+      "qt": "Framework d'aplicacions multiplataforma (C++).",
+      "reaper": "Edició d'àudio, disseny sonor i mescla.",
+      "aud": "Gravació ràpida d'àudio i edició d'ones."
+    }
+  },
+  "projects": {
+    "page_title": "PROJECTES",
+    "filter_all": "Tots",
+    "filter_game": "Jocs",
+    "filter_audio": "Àudio",
+    "filter_3d": "Animació 3D",
+    "filter_2d": "Animació 2D",
+    "no_results": "No s'han trobat projectes."
+  },
+  "faq": {
+    "q1": "Quines eines i tecnologia has fet servir?",
+    "a1": "Cada projecte llista l'stack exacte (ex. Unity, Blender, After Effects, C#) i els formats entregats (build jugable, MP4, FBX). Si vols saber exactament quines eines conec, pots anar a la pàgina Sobre mi per saber-ne més.",
+    "q2": "Quins projectes són més rellevants per a les meves necessitats?",
+    "a2": "Pots trobar ràpidament el treball més rellevant utilitzant els filtres de categoria a la part superior de la pàgina: Disseny, Animació, Jocs, Web/Apps i Àudio. Cada cas d'estudi també inclou un resultat breu d'una línia, perquè puguis identificar a l'instant els que coincideixen amb els teus objectius. Si no n'estàs segur, no dubtis a contactar-me sobre el que busques i t'indicaré els millors exemples.",
+    "q3": "Quin problema resolies i quin va ser el teu enfocament?",
+    "a3": "Cada cas d'estudi segueix: Problema → Restriccions → Enfocament → Entregables → Resultats. Incloc decisions clau i un breu procés visual (wireframes, abans/després).",
+    "q4": "Quin és el teu procés?",
+    "a4": "El meu procés habitual: brief → recerca i referències → prototip o esborrany → feedback i iteració → entrega final + traspàs + documentació. Et mantinc involucrat en cada pas, perquè sempre sàpigues què està passant.",
+    "q5": "Amb quina freqüència actualitzes el portafoli?",
+    "a5": "Actualitzo el portafoli trimestralment i afegeixo nous casos d'estudi significatius a mesura que acaben, perquè el lloc reflecteixi les meves habilitats i disponibilitat actuals.",
+    "q6": "Segueixes bones pràctiques de codi i disseny (control de versions, noms consistents, documentació)?",
+    "a6": "Sí, per a projectes digitals o basats en codi utilitzo control de versions i comento el codi; per a disseny organitzo capes, anomeno elements lògicament i mantinc documentació per als entregables."
+  }
+}

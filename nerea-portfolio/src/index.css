@@ -1,0 +1,217 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* --- ENHANCED PORTRAIT STYLES & ANIMATIONS --- */
+
+:root {
+  --accent1: #2b3aef;   /* Blue */
+  --accent2: #7b3fe4;   /* Purple */
+  --accent3: #ff6a3d;   /* Orange */
+  --mat: #ffffff;       /* White matte */
+  --frame-bg: linear-gradient(180deg, rgba(234,242,255,1), rgba(234,242,255,0.94));
+  --shadow: rgba(2,6,20,0.6);
+}
+
+/* --- KEYFRAMES DEFINITIONS --- */
+
+/* 1. Main Entrance (Slide Up) */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(40px) scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* 2. Pop-in Effect (For ornaments) */
+@keyframes popIn {
+  0% { opacity: 0; transform: scale(0); }
+  60% { transform: scale(1.1); }
+  100% { opacity: 0.96; transform: scale(1); }
+}
+
+/* 3. Sheen Sweep (Light reflection) */
+@keyframes sheen-sweep {
+  0% { transform: translateX(-120%) skewX(-18deg); }
+  100% { transform: translateX(220%) skewX(-18deg); }
+}
+
+/* 4. Pulse/Breath (For background accent) */
+@keyframes accent-breath {
+  0% { transform: translate(18px,-18px) rotate(-12deg) scale(1); }
+  50% { transform: translate(14px,-22px) rotate(-12deg) scale(1.03); }
+  100% { transform: translate(18px,-18px) rotate(-12deg) scale(1); }
+}
+
+/* 5. Floating (Hovering in place) */
+@keyframes floaty {
+  0% { transform: translateY(0) rotate(0deg); }
+  50% { transform: translateY(-8px) rotate(6deg); }
+  100% { transform: translateY(0) rotate(0deg); }
+}
+
+
+/* --- COMPONENT STYLES --- */
+
+.hero-right.enhanced-portrait {
+  width: 100%;
+  max-width: 420px;
+  height: 420px;
+  border-radius: 18px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  perspective: 1100px;
+  will-change: transform;
+  margin: 0 auto;
+  
+  /* NEW: Entrance Animation applied here */
+  opacity: 0; /* Starts invisible */
+  animation: fadeInUp 1.2s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
+  animation-delay: 0.2s;
+}
+
+.hero-media {
+  position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.12;
+  pointer-events: none; z-index: 0; filter: brightness(.66) contrast(.96) saturate(.95);
+  transition: opacity .6s ease;
+  border-radius: 16px;
+}
+@media (max-width: 700px) { .hero-media { display: none; } }
+
+.photo-frame {
+  position: relative; width: 360px; height: 360px; z-index: 2; transform-style: preserve-3d;
+  border-radius: 18px; display: flex; align-items: center; justify-content: center;
+  background: var(--frame-bg);
+  background-blend-mode: overlay;
+  box-shadow: 0 36px 120px var(--shadow), inset 0 1px 0 rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.04);
+  transition: all 0.5s ease;
+}
+
+/* NEW: Frame glows when hovered */
+.photo-frame:hover {
+  border-color: rgba(255,255,255,0.4);
+  box-shadow: 0 40px 130px var(--shadow), inset 0 1px 0 rgba(255,255,255,0.1);
+}
+
+.frame-mat {
+  position: relative; width: 92%; height: 92%; border-radius: 12px; overflow: hidden;
+  background: var(--mat);
+  box-shadow: 0 10px 30px rgba(2,6,20,0.06), inset 0 1px 0 rgba(0,0,0,0.02);
+  display: block;
+}
+
+.frame-img {
+  width: 100%; height: 100%; object-fit: cover; display: block;
+  transform: translateZ(0); transition: transform .9s cubic-bezier(.2,.9,.3,1), filter .6s ease;
+  will-change: transform, filter;
+}
+
+/* Hover effect on Image */
+.photo-frame:hover .frame-img { 
+  transform: scale(1.035) rotate(-0.4deg); 
+  filter: contrast(1.02) saturate(1.03); 
+}
+
+.sheen {
+  position: absolute; left: -40%; top: 0; width: 40%; height: 100%; transform: skewX(-18deg) translateX(-18%);
+  background: linear-gradient(90deg, rgba(255,255,255,0.0) 0%, rgba(255,255,255,0.6) 50%, rgba(255,255,255,0.0) 100%);
+  mix-blend-mode: screen; opacity: 0.18; pointer-events: none;
+  animation: sheen-sweep 6.2s linear infinite;
+  z-index: 3;
+}
+
+.grain {
+  position: absolute; inset: 0; background-image: linear-gradient(transparent 75%, rgba(0,0,0,0.01) 100%);
+  opacity: 0.06; pointer-events: none; z-index: 4;
+}
+
+.frame-accent {
+  position: absolute; right: 14px; bottom: 14px; width: 88px; height: 88px; border-radius: 12px;
+  background: linear-gradient(135deg, var(--accent2), var(--accent1) 60%, var(--accent3));
+  box-shadow: 0 14px 40px rgba(123,63,228,0.14), 0 2px 6px rgba(0,0,0,0.15);
+  transform: translate(18px,-18px) rotate(-12deg); z-index: 5;
+  opacity: 0.98; transition: transform .5s cubic-bezier(.2,.9,.3,1);
+  animation: accent-breath 3.6s ease-in-out infinite;
+}
+
+/* NEW: Accent box reacts to hover */
+.hero-right.enhanced-portrait:hover .frame-accent {
+  filter: brightness(1.2);
+  transform: translate(18px,-18px) rotate(-8deg) scale(1.05);
+}
+
+.rim-glow {
+  position: absolute; inset: -8px; border-radius: 22px; z-index: 1;
+  box-shadow: 0 30px 80px rgba(43,58,239,0.08), inset 0 0 80px rgba(123,63,228,0.015);
+  pointer-events: none;
+  filter: blur(8px);
+}
+
+/* --- ORNAMENTS (Squares) --- */
+
+.photo-ornament {
+  position: absolute; width: 48px; height: 48px; border-radius: 12px;
+  background: linear-gradient(90deg, var(--accent2), var(--accent3));
+  box-shadow: 0 10px 30px rgba(11,102,255,0.08);
+  z-index: 1; 
+  transition: transform .4s cubic-bezier(0.2, 0.8, 0.2, 1); /* Faster response for hover */
+  opacity: 0; /* Hidden until animation runs */
+}
+
+/* Chained Animations: Pop In -> then Float forever */
+.photo-ornament.o1 { 
+  left: -12px; top: -12px; 
+  animation: popIn 0.6s cubic-bezier(0.34, 1.56, 0.64, 1) forwards, floaty 6s ease-in-out infinite 0.6s;
+  animation-delay: 0.4s, 1s; /* Pop delay, Float delay */
+}
+
+.photo-ornament.o2 { 
+  right: -14px; bottom: -12px; 
+  animation: popIn 0.6s cubic-bezier(0.34, 1.56, 0.64, 1) forwards, floaty 6s ease-in-out infinite 0.6s;
+  animation-delay: 0.6s, 1.2s;
+}
+
+.photo-ornament.o3 { 
+  left: 18px; bottom: -22px; width: 36px; height: 36px; border-radius: 10px; opacity: 0;
+  animation: popIn 0.6s cubic-bezier(0.34, 1.56, 0.64, 1) forwards, floaty 6s ease-in-out infinite 0.6s;
+  animation-delay: 0.8s, 1.4s;
+}
+
+/* NEW: Interactive Hover for Ornaments (Scatter effect) */
+.hero-right.enhanced-portrait:hover .photo-ornament.o1 { transform: translate(-10px, -10px) rotate(-10deg); }
+.hero-right.enhanced-portrait:hover .photo-ornament.o2 { transform: translate(10px, 10px) rotate(10deg); }
+.hero-right.enhanced-portrait:hover .photo-ornament.o3 { transform: translate(-5px, 5px) rotate(-5deg); }
+
+
+/* --- UTILITY CLASSES FOR TEXT --- */
+.animate-text-up {
+  opacity: 0;
+  animation: fadeInUp 0.8s ease-out forwards;
+}
+.delay-1 { animation-delay: 0.1s; }
+.delay-2 { animation-delay: 0.3s; }
+.delay-3 { animation-delay: 0.5s; }
+
+
+/* --- RESPONSIVE --- */
+@media (max-width: 1000px) {
+  .hero-right.enhanced-portrait { max-width: 360px; height: 360px; }
+  .photo-frame { width: 320px; height: 320px; }
+}
+
+@media (max-width: 560px) {
+  .hero-right.enhanced-portrait {
+    flex-basis: 50vw; max-width: 50vw; width: 50vw; height: 50vw; border-radius: 12px; margin: 0 auto;
+  }
+  .photo-frame { width: 100%; height: 100%; border-radius: 12px; }
+  .frame-accent { width: 46px; height: 46px; right: 8px; bottom: 8px; transform: translate(10px,-10px) rotate(-12deg); }
+  .photo-ornament { width: 32px; height: 32px; }
+  .sheen, .hero-media { display: none; }
+}
