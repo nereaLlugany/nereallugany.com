@@ -1,0 +1,228 @@
+{
+  "hero": {
+    "role": "CREADORA MULTIMEDIA - DISEÑO, ANIMACIÓN Y ARTE PARA JUEGOS",
+    "title_start": "¡Hola! Soy",
+    "name": "Nerea",
+    "title_end": "diseño visuales atrevidos y animaciones.",
+    "desc": "Construyo prototipos jugables para Unity y Unreal, y diseño animaciones 2D y 3D de alta calidad, motion graphics, assets para juegos, diseño gráfico y VFX en tiempo real para juegos, aplicaciones, webs y campañas.",
+    "btn_projects": "Ver Proyectos",
+    "btn_reel": "Ver Reel",
+    "btn_cv": "Descargar CV"
+  },
+  "services": {
+    "pill": "QUÉ OFREZCO",
+    "heading": "Diseñar. Expresar. Animar. Crear.",
+    "subheading": "Transformo ideas en sistemas visuales de marca, motion graphics dinámicos y animaciones 2D y 3D de alta calidad que funcionan en todas las plataformas.",
+    "graphic": "Diseño Gráfico",
+    "graphic_desc": "Sistemas de marca y visuales de campaña diseñados para convertir en web, publicidad, impresión y merchandising físico.",
+    "motion": "Motion Graphics",
+    "motion_desc": "Trailers cinematográficos y micro-animaciones adaptadas al rendimiento, desde videos principales hasta cortes de 6s para redes sociales.",
+    "anim": "Animación 2D y 3D",
+    "anim_desc": "Desde movimiento 2D estilizado hasta personajes 3D de producción y pipelines de assets listos para Unity y Unreal.",
+    "learn_more": "Saber más",
+    "cta_text": "¿Curioso por ver cómo luciría tu idea en movimiento o diseño?",
+    "cta_btn": "Solicitar llamada breve"
+  },
+  "process": {
+    "title": "Mi Proceso"
+  },
+  "skills": {
+    "section_pill": "HABILIDADES Y HERRAMIENTAS",
+    "section_title": "Lo que puedo construir",
+    "section_desc": "Tengo capacidades en desarrollo web y apps (front-end/back-end), animaciones de producción 2D/3D, motion graphics y assets listos para motores de juego.",
+    "see_work_btn": "Ver mis trabajos y diseños"
+  },
+  "portfolio": {
+    "pill": "MEJORES TRABAJOS",
+    "title": "Portafolio multimedia: juegos, apps y post-producción",
+    "browse_all": "Ver todo"
+  },
+  "about": {
+    "pill": "SOBRE MÍ",
+    "heading": "Creo animaciones 3D y 2D, visuales impulsados por movimiento y assets listos para juegos.",
+    "p1": "Soy Nerea Wenting Llugany Montoya. Me especializo en animación 3D y 2D, motion graphics y diseño gráfico, y desarrollo assets listos para Unity y Unreal.",
+    "p2": "Mi enfoque está en la artesanía y la integración, bucles de animación pulidos, elementos listos para VFX y paquetes de assets que se conectan directamente a motores de juego o pipelines de producción.",
+    "btn_story": "Leer mi historia",
+    "btn_unity": "Ver proyecto Unity",
+    "btn_email": "Envíame un email →",
+    "avail": "roles freelance y junior."
+  },
+  "cta": {
+    "pill": "¿LISTO PARA MOVER TU IDEA?",
+    "title": "Da vida a las palabras, convirtiendo conceptos en visuales cinematográficos, animaciones y assets de juego.",
+    "btn_pricing": "Solicitar presupuesto",
+    "or": "o envíame un email"
+  },
+  "nav": {
+    "home": "Inicio",
+    "projects": "Proyectos",
+    "services": "Servicios",
+    "about": "Sobre mí",
+    "contact": "Contacto"
+  },
+  "footer": {
+    "desc": "Creadora Multimedia y Artista VFX. Construyendo prototipos jugables y visuales.",
+    "location": "Barcelona, España",
+    "col_services": "SERVICIOS",
+    "col_nav": "NAVEGACIÓN",
+    "col_connect": "CONECTAR",
+    "serv_1": "Animaciones 2D y 3D",
+    "serv_2": "Motion graphics e Identidad",
+    "serv_3": "Postproducción de video",
+    "serv_4": "Prototipado Unity y Unreal",
+    "rights": "Todos los derechos reservados."
+  },
+  "process": {
+    "badge": "MI PROCESO",
+    "title": "Del concepto al motor de juego",
+    "desc": "Un pipeline estructurado diseñado para unir la visión creativa con la implementación técnica en Unity o Unreal.",
+    "btn_consult": "Reservar consulta",
+    "btn_contact": "Contactar",
+    "typical_output": "ENTREGABLES TÍPICOS",
+    "steps": {
+      "1": {
+        "title": "Descubrimiento y Briefing",
+        "desc": "Definimos el alcance, las limitaciones técnicas y los objetivos artísticos. Analizo tu pipeline existente para asegurar que mis assets encajen perfectamente.",
+        "outputs": ["Brief del proyecto", "Lista de requisitos técnicos", "Estimación de tiempos"]
+      },
+      "2": {
+        "title": "Dirección de Arte y Conceptos",
+        "desc": "Creo moodboards, bocetos o style frames para alinear la dirección visual antes de pasar a fases de producción costosas.",
+        "outputs": ["Moodboards", "Bocetos conceptuales", "Style frames (PDF)"]
+      },
+      "3": {
+        "title": "Prototipado y Blocking",
+        "desc": "Para 3D/Juegos, creo modelos greybox o animaciones en borrador para probar tiempos y funcionalidad dentro del motor inmediatamente.",
+        "outputs": ["Assets Greybox", "Animáticas (MP4)", "Escena preliminar Unity/Unreal"]
+      },
+      "4": {
+        "title": "Producción y Animación",
+        "desc": "El trabajo pesado. Modelado, texturizado, rigging y animación. Me enfoco en topología limpia y rendimiento optimizado.",
+        "outputs": ["Mallas High/Low poly", "Clips de animación", "Archivos fuente (.blend, .aep)"]
+      },
+      "5": {
+        "title": "Integración Técnica",
+        "desc": "Importo assets al motor, configurando materiales, prefabs, controladores de animación y sistemas de partículas.",
+        "outputs": ["Unity Prefabs / Unreal Blueprints", "Configuración de materiales", "Sistemas de partículas VFX"]
+      },
+      "6": {
+        "title": "Pulido y Entrega",
+        "desc": "Optimización final, corrección de errores y organización de archivos. Entrego un paquete limpio listo para tus desarrolladores.",
+        "outputs": ["Unity Package / Proyecto Unreal final", "FBX/GLTF optimizados", "Documentación"]
+      }
+    }
+  },
+  "portfolio": {
+    "view_project": "Ver Proyecto"
+  },
+  "projects": {
+    "thorny": {
+      "title": "Thorny Seasons",
+      "category": "Prototipo Unity",
+      "meta": "2024 | Proyecto universitario | Videojuego",
+      "desc": "Un plataformas 2D desarrollado en Unity (C#). Incluye físicas personalizadas, sistema de economía persistente y una batalla de jefe con Máquina de Estados Finitos (FSM)."
+    },
+    "monsters": {
+      "title": "Monstruos, S.A.",
+      "category": "Postproducción de Audio",
+      "meta": "2024 | Proyecto universitario | Audio",
+      "desc": "Rediseño técnico de sonido usando Reaper. Demuestra el proceso completo de foley, grabación de texturas personalizadas y mezcla con EQ y Reverb."
+    },
+    "vincent": {
+      "title": "El Viaje de Vincent",
+      "category": "Animación de Personajes 3D",
+      "meta": "2024 | Proyecto universitario | Animación 3D",
+      "desc": "Muestra de animación 3D especializada usando Blender y Rigify. Explora la mecánica corporal aplicando tres estados emocionales distintos a un ciclo de caminata."
+    },
+    "banana": {
+      "title": "Operación Banana",
+      "category": "Rigging 2D",
+      "meta": "2023 | Proyecto universitario | Animación 2D",
+      "desc": "Estudio de animación de personajes utilizando Adobe Animate. Muestra los desafíos técnicos de un ciclo de caminata con peso y sincronización labial."
+    }
+  },
+  "skills": {
+    "section_pill": "HABILIDADES Y HERRAMIENTAS",
+    "section_title": "Lo que puedo construir",
+    "section_desc": "Tengo capacidades en desarrollo web y apps (front-end/back-end), animaciones de producción 2D/3D, motion graphics y assets listos para motores de juego.",
+    "see_work_btn": "Ver mis trabajos y diseños",
+    "meters_title": "Nivel de Competencia",
+    "default_desc": "Selecciona una herramienta para ver cómo la uso en mi flujo de trabajo.",
+    "categories": {
+      "design": "Diseño",
+      "animation": "Animación",
+      "games": "Juegos",
+      "web": "Web/Apps",
+      "devops": "DevOps",
+      "audio": "Audio"
+    },
+    "meter_labels": {
+      "0": "Rigging y Timing",
+      "1": "React y Frontend",
+      "2": "Bases de datos y APIs",
+      "3": "Marca e Impresión",
+      "4": "Lógica de Juegos",
+      "5": "Desarrollo Móvil",
+      "6": "Composición"
+    },
+    "tools": {
+      "ps": "Manipulación fotográfica, pintura de texturas 3D y arte digital.",
+      "ai": "Gráficos vectoriales para UI escalable, logos y maquetación.",
+      "fig": "Prototipado UI/UX, wireframes y sistemas de diseño.",
+      "can": "Creación rápida de assets para redes sociales.",
+      "ae": "Motion graphics, composición VFX y animación de personajes.",
+      "pr": "Edición de video, corrección de color y formato final.",
+      "bl-a": "Modelado 3D, escultura y pipelines de animación.",
+      "p5": "Programación creativa y visualización generativa.",
+      "proc": "Programación creativa en Java para instalaciones interactivas.",
+      "unity": "Desarrollo de juegos, scripting C# y sistemas de partículas.",
+      "ue": "Renderizado de alta fidelidad, Blueprints y cinemáticas.",
+      "bl-g": "Creación de assets optimizados para motores (low-poly/UVs).",
+      "ard": "Computación física y programación de microcontroladores.",
+      "p5-g": "Mini-juegos web y elementos de canvas interactivos.",
+      "proc-g": "Mecánicas de juego experimentales y generación procedimental.",
+      "html": "Marcado semántico y diseño web estructural.",
+      "css": "Estilos responsivos, Flexbox/Grid y animaciones.",
+      "js": "Lógica interactiva, manipulación del DOM y sintaxis ES6+.",
+      "react": "Arquitectura basada en componentes, estados y hooks.",
+      "ang": "Framework estructurado para aplicaciones escalables.",
+      "flut": "Desarrollo de apps multiplataforma (iOS/Android).",
+      "and": "Desarrollo nativo Android e implementación Material Design.",
+      "xcode": "Configuración de entorno iOS y compilación para Apple.",
+      "fire": "Bases de datos en tiempo real, autenticación y cloud functions.",
+      "wp": "Gestión de CMS, personalización de temas y plugins.",
+      "elem": "Construcción visual para despliegue rápido en WordPress.",
+      "fig-h": "Entrega a desarrolladores, inspección y exportación.",
+      "snip": "Snippets de código reutilizables para prototipado rápido.",
+      "git": "Control de versiones, ramas y colaboración en equipo.",
+      "php": "Scripting del lado del servidor y lógica backend.",
+      "fire-d": "Despliegue backend y gestión de bases de datos.",
+      "qt": "Framework de aplicaciones multiplataforma (C++).",
+      "reaper": "Edición de audio, diseño sonoro y mezcla.",
+      "aud": "Grabación rápida de audio y edición de ondas."
+    }
+  },
+  "projects": {
+    "page_title": "PROYECTOS",
+    "filter_all": "Todos",
+    "filter_game": "Juegos",
+    "filter_audio": "Audio",
+    "filter_3d": "Animación 3D",
+    "filter_2d": "Animación 2D",
+    "no_results": "No se encontraron proyectos."
+  },
+  "faq": {
+    "q1": "¿Qué herramientas y tecnología has usado?",
+    "a1": "Cada proyecto enumera el stack exacto (ej. Unity, Blender, After Effects, C#) y los formatos entregados (build jugable, MP4, FBX). Si quieres saber exactamente qué herramientas conozco, puedes ir a la página Sobre mí para saber más.",
+    "q2": "¿Qué proyectos son más relevantes para mis necesidades?",
+    "a2": "Puedes encontrar rápidamente el trabajo más relevante usando los filtros de categoría en la parte superior de la página: Diseño, Animación, Juegos, Web/Apps y Audio. Cada estudio de caso también incluye un resultado breve de una línea, para que puedas identificar al instante los que coinciden con tus objetivos. Si no estás seguro, no dudes en contactarme sobre lo que buscas y te indicaré los mejores ejemplos.",
+    "q3": "¿Qué problema resolvías y cuál fue tu enfoque?",
+    "a3": "Cada estudio de caso sigue: Problema → Restricciones → Enfoque → Entregables → Resultados. Incluyo decisiones clave y un breve proceso visual (wireframes, antes/después).",
+    "q4": "¿Cuál es tu proceso?",
+    "a4": "Mi proceso habitual: brief → investigación y referencias → prototipo o borrador → feedback e iteración → entrega final + traspaso + documentación. Te mantengo involucrado en cada paso, para que siempre sepas qué está pasando.",
+    "q5": "¿Con qué frecuencia actualizas el portafolio?",
+    "a5": "Actualizo el portafolio trimestralmente y agrego nuevos estudios de caso significativos a medida que terminan, para que el sitio refleje mis habilidades y disponibilidad actuales.",
+    "q6": "¿Sigues buenas prácticas de código y diseño (control de versiones, nombres consistentes, documentación)?",
+    "a6": "Sí, para proyectos digitales o basados en código uso control de versiones y comento el código; para diseño organizo capas, nombro elementos lógicamente y mantengo documentación para los entregables."
+  }
+}
