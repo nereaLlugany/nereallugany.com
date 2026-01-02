@@ -3,12 +3,6 @@ import { Link, useParams, useNavigate, useLocation } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { ChevronDown, Menu, X } from 'lucide-react';
 
-import flagEn from '../assets/flags/en.svg';
-import flagEs from '../assets/flags/es.svg';
-import flagCa from '../assets/flags/ca.svg';
-import flagZh from '../assets/flags/zh.svg';
-import flagKo from '../assets/flags/ko.svg';
-
 const Navbar = () => {
   const { t } = useTranslation();
   const { lang } = useParams();
@@ -17,15 +11,16 @@ const Navbar = () => {
   
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const getFlagPath = (code) => `/nereallugany.com/assets/flags/${code}.svg`;
   
   const dropdownRef = useRef(null);
 
   const languages = [
-    { code: 'en', flag: flagEn, label: 'English' },
-    { code: 'es', flag: flagEs, label: 'Español' },
-    { code: 'ca', flag: flagCa, label: 'Català' },
-    { code: 'zh', flag: flagZh, label: '中文' },
-    { code: 'ko', flag: flagKo, label: '한국어' }
+    { code: 'en', flag: getFlagPath('en'), label: 'English' },
+    { code: 'es', flag: getFlagPath('es'), label: 'Español' },
+    { code: 'ca', flag: getFlagPath('ca'), label: 'Català' },
+    { code: 'zh', flag: getFlagPath('zh'), label: '中文' },
+    { code: 'ko', flag: getFlagPath('ko'), label: '한국어' }
   ];
 
   const currentLang = languages.find(l => l.code === lang) || languages[0];
