@@ -12,7 +12,7 @@ i18n
     
     // Path where resources get loaded from
     backend: {
-      loadPath: '/locales/{{lng}}/translation.json',
+      loadPath: import.meta.env.BASE_URL + 'locales/{{lng}}/translation.json',
     },
 
     interpolation: {

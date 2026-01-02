@@ -89,7 +89,7 @@ const Home = () => {
           <div className="bg-gradient-to-b from-sky-300 to-teal-200 rounded-3xl p-8 flex flex-col justify-between text-white min-h-[450px]">
             <div className="flex flex-col items-center">
               <img
-                src="/src/assets/imgs/GraphicDesign.png"
+                src="/nereallugany.com/assets/imgs/GraphicDesign.png"
                 alt="Graphic Design"
                 className="w-full h-48 object-contain mb-6 filter drop-shadow-lg"
               />
@@ -107,7 +107,7 @@ const Home = () => {
           <div className="bg-gradient-to-b from-blue-300 to-purple-300 rounded-3xl p-8 flex flex-col justify-between text-white min-h-[450px]">
             <div className="flex flex-col items-center">
               <img
-                src="/src/assets/imgs/MotionGraphics.png"
+                src="/nereallugany.com/assets/imgs/MotionGraphics.png"
                 alt="Motion Graphics"
                 className="w-full h-48 object-contain mb-6 filter drop-shadow-lg"
               />
@@ -125,7 +125,7 @@ const Home = () => {
           <div className="bg-gradient-to-b from-pink-300 to-orange-200 rounded-3xl p-8 flex flex-col justify-between text-white min-h-[450px]">
             <div className="flex flex-col items-center">
               <img
-                src="/src/assets/imgs/Animation.png"
+                src="/nereallugany.com/assets/imgs/Animation.png"
                 alt="Animation"
                 className="w-full h-48 object-contain mb-6 filter drop-shadow-lg"
               />
