@@ -224,5 +224,69 @@
     "a5": "Actualizo el portafolio trimestralmente y agrego nuevos estudios de caso significativos a medida que terminan, para que el sitio refleje mis habilidades y disponibilidad actuales.",
     "q6": "¿Sigues buenas prácticas de código y diseño (control de versiones, nombres consistentes, documentación)?",
     "a6": "Sí, para proyectos digitales o basados en código uso control de versiones y comento el código; para diseño organizo capas, nombro elementos lógicamente y mantengo documentación para los entregables."
+  },
+  "services": {
+    "page_title": "SERVICIOS",
+    "explore_design": "Explorar diseños",
+    "view_motion": "Ver motion",
+    "explore_anim": "Explorar animación",
+    "get_demo": "Ver demo",
+    "graphic": "Diseño Gráfico",
+    "graphic_desc": "Sistemas de marca y visuales de campaña diseñados para convertir en web, publicidad, impresión y merchandising físico.",
+    "graphic_list": ["Identidad de marca", "Creatividad de campaña", "Kits para redes sociales", "Packaging y merch", "Exportación impresión", "UI e Iconos", "Plantillas"],
+    "motion": "Motion Graphics",
+    "motion_desc": "Trailers cinematográficos y micro-animaciones adaptadas al rendimiento, desde videos principales hasta cortes de 6s para redes.",
+    "motion_list": ["Videos promocionales", "Cortes publicitarios", "Branding animado", "Micro-contenidos en bucle", "Composición y acabado", "Packs de campaña", "Plantillas de motion"],
+    "anim": "Animación 2D y 3D",
+    "anim_desc": "Desde movimiento 2D estilizado hasta personajes 3D de producción y pipelines de assets listos para Unity y Unreal.",
+    "anim_list": ["Animación 2D", "Modelado y texturizado 3D", "Assets listos para juegos", "Rigging y ciclos", "Turntables de producto", "VFX en tiempo real"],
+    "phil_badge": "MI FILOSOFÍA",
+    "phil_title": "Qué esperar",
+    "phil_1_title": "Diseño centrado en el usuario",
+    "phil_1_desc": "No solo ejecuto tareas, profundizo para entender las necesidades reales de tus usuarios.",
+    "phil_2_title": "Comunicación clara",
+    "phil_2_desc": "Colaboración transparente. Valoro la autenticidad y la claridad. Trabajo con un flujo colaborativo, compartiendo el progreso a menudo.",
+    "phil_3_title": "Soporte posterior",
+    "phil_3_desc": "Entregas fiables. Mi compromiso va más allá de la exportación final. Entrego assets organizados con documentación técnica."
+  },
+  "about": {
+    "page_title": "SOBRE MÍ",
+    "hero_title": "Donde el arte encuentra el código",
+    "hero_p1": "¡Hola! Soy Nerea Wenting Llugany Montoya. Bienvenid@ a mi portafolio. Soy una diseñadora creativa multimedia impulsada por una profunda curiosidad sobre la experiencia humana detrás de la pantalla. Creo que la creación digital es más que polígonos; se trata de transformar ideas abstractas en realidades jugables y emocionales.",
+    "hero_p2": "Prospero en el terreno intermedio entre el código y el lienzo. Ya sea creando animaciones 3D/2D, construyendo VFX en Unity y Unreal, o diseñando assets de juego, me aseguro de que cada pieza no solo sea visualmente hermosa, sino que funcione perfectamente.",
+    "btn_resume": "Descargar CV",
+    "btn_portfolio": "Ver Portafolio",
+    "exp_badge": "EXPERIENCIA",
+    "exp_title": "Mi trayectoria",
+    "exp_list": [
+      { "role": "Diseñadora gráfica y motion graphics", "company": "Freelance", "date": "Sept 2023 - actualidad" },
+      { "role": "Becaria Multimedia", "company": "Positive Ma (Corea)", "date": "Jun 2025 - Ago 2025" },
+      { "role": "Diseñadora Gráfica", "company": "Mireia", "date": "Sept 2025 - actualidad" },
+      { "role": "Estudiante Universitaria", "company": "Grado en Multimedia, Aplicaciones y Videojuegos", "date": "Sept 2022 - Actualidad" }
+    ],
+    "lang_badge": "REGIONES DESBLOQUEADAS"
+  },
+  "languages": {
+    "es": "Español",
+    "ca": "Catalán",
+    "en": "Inglés",
+    "fr": "Francés",
+    "zh": "Chino",
+    "ko": "Coreano",
+    "native": "NATIVO",
+    "en_level": "CERTIFICADO AVANZADO",
+    "fr_level": "INTERMEDIO B2"
+  },
+  "hobbies": {
+    "badge": "MI MUNDO",
+    "title": "Lo que hago \ncuando no estoy trabajando",
+    "travel_title": "Explorar y Viajar",
+    "travel_desc": "La curiosidad es mi motor. Me encanta caminar por la naturaleza o viajar a nuevas ciudades para entender diferentes culturas.",
+    "cinema_title": "Cine y Cultura",
+    "cinema_desc": "Consumo historias constantemente. Ya sea escuchando música o analizando la cinematografía en películas, el arte alimenta mi trabajo.",
+    "lang_title": "Aprender Idiomas",
+    "lang_desc": "Me desafío aprendiendo nuevos idiomas. Conecta con mi objetivo de trabajar internacionalmente y entender diversas perspectivas.",
+    "creative_title": "Juego Creativo",
+    "creative_desc": "Crear es un hábito, no solo un trabajo. Paso mi tiempo libre bocetando, dibujando o experimentando con micro-animaciones por diversión."
   }
 }

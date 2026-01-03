@@ -224,5 +224,69 @@
     "a5": "I refresh the portfolio quarterly and add significant new case studies as they finish, so the site reflects my current skills and availability.",
     "q6": "Do you follow coding / design best practices (version control, consistent naming, documentation)?",
     "a6": "Yes, for digital or code-based projects I use version control and comment code; for design I organise layers, name elements logically, and keep documentation for deliverables."
+  },
+  "services": {
+    "page_title": "SERVICES",
+    "explore_design": "Explore designs",
+    "view_motion": "View motion",
+    "explore_anim": "Explore animations",
+    "get_demo": "Get demo",
+    "graphic": "Graphic Design",
+    "graphic_desc": "Brand systems and campaign visuals designed to convert across web, ads, print and physical merchandise.",
+    "graphic_list": ["Brand Identity", "Campaign creative", "Ad & social kits", "Packaging & merch", "Print exports (any format)", "UI & Icons", "Templates"],
+    "motion": "Motion Graphics",
+    "motion_desc": "Cinematic trailers and micro-motion tailored for performance, from hero videos to 6s social cutdowns.",
+    "motion_list": ["Promo & explainer videos", "Ad cutdowns", "Animated branding", "Loopable & micro-content", "Compositing & finishing", "Campaign packs", "Motion templates"],
+    "anim": "2D & 3D Animation",
+    "anim_desc": "From stylized 2D motion to production 3D characters and game-ready asset pipelines for Unity and Unreal.",
+    "anim_list": ["2D animation", "3D modeling & texturing", "Game-ready assets", "Rigging & animation cycles", "Turntables & product visuals", "Realtime VFX & shaders"],
+    "phil_badge": "MY PHILOSOPHY",
+    "phil_title": "What to expect",
+    "phil_1_title": "User centric design",
+    "phil_1_desc": "I don't just execute tasks, I dig deep to understand the real needs of your users.",
+    "phil_2_title": "Clear communication",
+    "phil_2_desc": "Transparent collaboration. I value authenticity and keeping things clear. I work with a collaborative workflow, sharing progress often.",
+    "phil_3_title": "After Support",
+    "phil_3_desc": "Reliable Handoffs. My commitment extends beyond the final export. I deliver organized assets with technical documentation."
+  },
+  "about": {
+    "page_title": "ABOUT",
+    "hero_title": "Where art meets engine code",
+    "hero_p1": "Hello! I'm Nerea Wenting Llugany Montoya. Welcome to my portfolio. I am a multimedia creative designer driven by a deep curiosity about the human experience behind the screen. I believe that digital creation is more than just polygons; it is about transforming abstract ideas into playable, emotional realities.",
+    "hero_p2": "I thrive in the middle ground between code and canvas. Whether I am crafting 3D/2D animations, building Unity and Unreal VFX, or designing game assets, I ensure every piece is not only visually beautiful but functions flawlessly. I am here to help studios and brands tell stories that work.",
+    "btn_resume": "Download Resume",
+    "btn_portfolio": "View Portfolio",
+    "exp_badge": "EXPERIENCE",
+    "exp_title": "Journey so far",
+    "exp_list": [
+      { "role": "Graphic designer & motion graphics", "company": "Freelancer", "date": "Sept 2023 - now" },
+      { "role": "Multimedia Intern", "company": "Positive Ma (Korea)", "date": "Jun 2025 - Aug 2025" },
+      { "role": "Graphic Designer", "company": "Mireia", "date": "Sept 2025 - now" },
+      { "role": "University student", "company": "Degree in Multimedia, Applications and Videogames", "date": "Sept 2022 - Now" }
+    ],
+    "lang_badge": "UNLOCKED REGIONS"
+  },
+  "languages": {
+    "es": "Spanish",
+    "ca": "Catalan",
+    "en": "English",
+    "fr": "French",
+    "zh": "Chinese",
+    "ko": "Korean",
+    "native": "NATIVE",
+    "en_level": "ADVANCED CERTIFICATE",
+    "fr_level": "INTERMEDIATE B2"
+  },
+  "hobbies": {
+    "badge": "MY WORLD",
+    "title": "When I do \nwhen I am not working",
+    "travel_title": "Explore & Travel",
+    "travel_desc": "Curiosity is my main engine. I love walking through nature or traveling to new cities to understand different cultures.",
+    "cinema_title": "Cinema & Culture",
+    "cinema_desc": "I am a consumer of stories. Whether listening to music or analyzing the cinematography in movies, art fuels my work.",
+    "lang_title": "Language Learning",
+    "lang_desc": "I challenge myself by learning new languages. It connects to my goal of working internationally and understanding diverse perspectives.",
+    "creative_title": "Creative Play",
+    "creative_desc": "Creation is a habit, not just a job. I spend my free time sketching, drawing, or experimenting with micro-animations just for fun."
   }
 }

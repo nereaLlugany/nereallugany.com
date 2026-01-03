@@ -224,5 +224,69 @@
     "a5": "Actualitzo el portafoli trimestralment i afegeixo nous casos d'estudi significatius a mesura que acaben, perquè el lloc reflecteixi les meves habilitats i disponibilitat actuals.",
     "q6": "Segueixes bones pràctiques de codi i disseny (control de versions, noms consistents, documentació)?",
     "a6": "Sí, per a projectes digitals o basats en codi utilitzo control de versions i comento el codi; per a disseny organitzo capes, anomeno elements lògicament i mantinc documentació per als entregables."
+  },
+  "services": {
+    "page_title": "SERVEIS",
+    "explore_design": "Explorar dissenys",
+    "view_motion": "Veure motion",
+    "explore_anim": "Explorar animació",
+    "get_demo": "Veure demo",
+    "graphic": "Disseny Gràfic",
+    "graphic_desc": "Sistemes de marca i visuals de campanya dissenyats per convertir a web, publicitat, impressió i marxandatge físic.",
+    "graphic_list": ["Identitat de marca", "Creativitat de campanya", "Kits per a xarxes", "Packaging i merch", "Exportació impressió", "UI i Icones", "Plantilles"],
+    "motion": "Motion Graphics",
+    "motion_desc": "Tràilers cinematogràfics i micro-animacions adaptades al rendiment, des de vídeos principals fins a talls de 6s.",
+    "motion_list": ["Vídeos promocionals", "Talls publicitaris", "Branding animat", "Micro-continguts en bucle", "Composició i acabat", "Packs de campanya", "Plantilles de motion"],
+    "anim": "Animació 2D i 3D",
+    "anim_desc": "Des de moviment 2D estilitzat fins a personatges 3D de producció i pipelines d'assets llestos per a Unity i Unreal.",
+    "anim_list": ["Animació 2D", "Modelatge i texturitzat 3D", "Assets llestos per a jocs", "Rigging i cicles", "Turntables de producte", "VFX en temps real"],
+    "phil_badge": "LA MEVA FILOSOFIA",
+    "phil_title": "Què esperar",
+    "phil_1_title": "Disseny centrat en l'usuari",
+    "phil_1_desc": "No només executo tasques, aprofundeixo per entendre les necessitats reals dels teus usuaris.",
+    "phil_2_title": "Comunicació clara",
+    "phil_2_desc": "Col·laboració transparent. Valoro l'autenticitat i la claredat. Treballo amb un flux col·laboratiu, compartint el progrés sovint.",
+    "phil_3_title": "Suport posterior",
+    "phil_3_desc": "Entregues fiables. El meu compromís va més enllà de l'exportació final. Entrego assets organitzats amb documentació tècnica."
+  },
+  "about": {
+    "page_title": "SOBRE MI",
+    "hero_title": "On l'art troba el codi",
+    "hero_p1": "Hola! Sóc la Nerea Wenting Llugany Montoya. Benvingut/da al meu portafoli. Sóc una dissenyadora creativa multimèdia impulsada per una profunda curiositat sobre l'experiència humana darrere de la pantalla. Crec que la creació digital és més que polígons; es tracta de transformar idees abstractes en realitats jugables i emocionals.",
+    "hero_p2": "Prospero en el terreny intermedi entre el codi i el llenç. Ja sigui creant animacions 3D/2D, construint VFX a Unity i Unreal, o dissenyant assets de joc, m'asseguro que cada peça no només sigui visualment bonica, sinó que funcioni perfectament.",
+    "btn_resume": "Descarregar CV",
+    "btn_portfolio": "Veure Portafoli",
+    "exp_badge": "EXPERIÈNCIA",
+    "exp_title": "La meva trajectòria",
+    "exp_list": [
+      { "role": "Dissenyadora gràfica i motion graphics", "company": "Freelance", "date": "Set 2023 - actualitat" },
+      { "role": "Becària Multimèdia", "company": "Positive Ma (Corea)", "date": "Jun 2025 - Ago 2025" },
+      { "role": "Dissenyadora Gràfica", "company": "Mireia", "date": "Set 2025 - actualitat" },
+      { "role": "Estudiant Universitària", "company": "Grau en Multimèdia, Aplicacions i Videojocs", "date": "Set 2022 - Actualitat" }
+    ],
+    "lang_badge": "REGIONS DESBLOQUEJADES"
+  },
+  "languages": {
+    "es": "Espanyol",
+    "ca": "Català",
+    "en": "Anglès",
+    "fr": "Francès",
+    "zh": "Xinès",
+    "ko": "Coreà",
+    "native": "NATIU",
+    "en_level": "CERTIFICAT AVANÇAT",
+    "fr_level": "INTERMEDI B2"
+  }, 
+  "hobbies": {
+    "badge": "EL MEU MÓN",
+    "title": "El que faig \nquan no estic treballant",
+    "travel_title": "Explorar i Viatjar",
+    "travel_desc": "La curiositat és el meu motor. M'encanta caminar per la natura o viatjar a noves ciutats per entendre diferents cultures.",
+    "cinema_title": "Cinema i Cultura",
+    "cinema_desc": "Sóc consumidora d'històries. Ja sigui escoltant música o analitzant la cinematografia en pel·lícules, l'art alimenta la meva feina.",
+    "lang_title": "Aprendre Idiomes",
+    "lang_desc": "Em desafio aprenent nous idiomes. Connecta amb el meu objectiu de treballar internacionalment i entendre diverses perspectives.",
+    "creative_title": "Joc Creatiu",
+    "creative_desc": "Crear és un hàbit, no només una feina. Passo el meu temps lliure esbossant, dibuixant o experimentant amb micro-animacions per diversió."
   }
 }

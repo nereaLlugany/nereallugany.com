@@ -80,7 +80,7 @@ const ProcessSection = () => {
         {steps.map((step) => (
           <div key={step.id} className="group">
              <h3 className="text-2xl font-bold text-gray-900 mb-2">
-                <span className="text-gray-300 mr-2">{step.id}.</span> {step.title}
+                <span className="text-gray-500 mr-2">{step.id}.</span> {step.title}
              </h3>
              <p className="text-gray-600 mb-4 max-w-lg leading-relaxed">
                {step.desc}

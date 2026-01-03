@@ -73,6 +73,7 @@ const Navbar = () => {
           <Link to={`/${lang}/projects`} className="hover:text-white transition">{t('nav.projects')}</Link>
           <Link to={`/${lang}/services`} className="hover:text-white transition">{t('nav.services')}</Link>
           <Link to={`/${lang}/about`} className="hover:text-white transition">{t('nav.about')}</Link>
+          <Link to={`/${lang}/contact`} className="hover:text-white transition">{t('nav.contact')}</Link>
         </div>
 
         {/* --- RIGHT SIDE (Language & Mobile Toggle) --- */}
@@ -142,6 +143,10 @@ const Navbar = () => {
           </Link>
           <Link to={`/${lang}/about`} className="text-lg font-medium text-gray-300 hover:text-white py-2 border-b border-gray-700">
             {t('nav.about')}
+          </Link>
+
+          <Link to={`/${lang}/contact`} className="text-lg font-medium text-gray-300 hover:text-white py-2 border-b border-gray-700">
+            {t('nav.contact')}
           </Link>
           
           <button className="bg-[#0066FF] text-white py-3 rounded-lg font-bold mt-4 shadow-lg shadow-blue-500/20">
