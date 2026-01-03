@@ -248,5 +248,33 @@
     "phil_2_desc": "Transparent collaboration. I value authenticity and keeping things clear. I work with a collaborative workflow, sharing progress often.",
     "phil_3_title": "After Support",
     "phil_3_desc": "Reliable Handoffs. My commitment extends beyond the final export. I deliver organized assets with technical documentation."
+  },
+  "about": {
+    "page_title": "ABOUT",
+    "hero_title": "Where art meets engine code",
+    "hero_p1": "Hello! I'm Nerea Wenting Llugany Montoya. Welcome to my portfolio. I am a multimedia creative designer driven by a deep curiosity about the human experience behind the screen. I believe that digital creation is more than just polygons; it is about transforming abstract ideas into playable, emotional realities.",
+    "hero_p2": "I thrive in the middle ground between code and canvas. Whether I am crafting 3D/2D animations, building Unity and Unreal VFX, or designing game assets, I ensure every piece is not only visually beautiful but functions flawlessly. I am here to help studios and brands tell stories that work.",
+    "btn_resume": "Download Resume",
+    "btn_portfolio": "View Portfolio",
+    "exp_badge": "EXPERIENCE",
+    "exp_title": "Journey so far",
+    "exp_list": [
+      { "role": "Graphic designer & motion graphics", "company": "Freelancer", "date": "Sept 2023 - now" },
+      { "role": "Multimedia Intern", "company": "Positive Ma (Korea)", "date": "Jun 2025 - Aug 2025" },
+      { "role": "Graphic Designer", "company": "Mireia", "date": "Sept 2025 - now" },
+      { "role": "University student", "company": "Degree in Multimedia, Applications and Videogames", "date": "Sept 2022 - Now" }
+    ],
+    "lang_badge": "UNLOCKED REGIONS"
+  },
+  "languages": {
+    "es": "Spanish",
+    "ca": "Catalan",
+    "en": "English",
+    "fr": "French",
+    "zh": "Chinese",
+    "ko": "Korean",
+    "native": "NATIVE",
+    "en_level": "ADVANCED CERTIFICATE",
+    "fr_level": "INTERMEDIATE B2"
   }
 }

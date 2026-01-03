@@ -248,5 +248,33 @@
     "phil_2_desc": "Col·laboració transparent. Valoro l'autenticitat i la claredat. Treballo amb un flux col·laboratiu, compartint el progrés sovint.",
     "phil_3_title": "Suport posterior",
     "phil_3_desc": "Entregues fiables. El meu compromís va més enllà de l'exportació final. Entrego assets organitzats amb documentació tècnica."
+  },
+  "about": {
+    "page_title": "SOBRE MI",
+    "hero_title": "On l'art troba el codi",
+    "hero_p1": "Hola! Sóc la Nerea Wenting Llugany Montoya. Benvingut/da al meu portafoli. Sóc una dissenyadora creativa multimèdia impulsada per una profunda curiositat sobre l'experiència humana darrere de la pantalla. Crec que la creació digital és més que polígons; es tracta de transformar idees abstractes en realitats jugables i emocionals.",
+    "hero_p2": "Prospero en el terreny intermedi entre el codi i el llenç. Ja sigui creant animacions 3D/2D, construint VFX a Unity i Unreal, o dissenyant assets de joc, m'asseguro que cada peça no només sigui visualment bonica, sinó que funcioni perfectament.",
+    "btn_resume": "Descarregar CV",
+    "btn_portfolio": "Veure Portafoli",
+    "exp_badge": "EXPERIÈNCIA",
+    "exp_title": "La meva trajectòria",
+    "exp_list": [
+      { "role": "Dissenyadora gràfica i motion graphics", "company": "Freelance", "date": "Set 2023 - actualitat" },
+      { "role": "Becària Multimèdia", "company": "Positive Ma (Corea)", "date": "Jun 2025 - Ago 2025" },
+      { "role": "Dissenyadora Gràfica", "company": "Mireia", "date": "Set 2025 - actualitat" },
+      { "role": "Estudiant Universitària", "company": "Grau en Multimèdia, Aplicacions i Videojocs", "date": "Set 2022 - Actualitat" }
+    ],
+    "lang_badge": "REGIONS DESBLOQUEJADES"
+  },
+  "languages": {
+    "es": "Espanyol",
+    "ca": "Català",
+    "en": "Anglès",
+    "fr": "Francès",
+    "zh": "Xinès",
+    "ko": "Coreà",
+    "native": "NATIU",
+    "en_level": "CERTIFICAT AVANÇAT",
+    "fr_level": "INTERMEDI B2"
   }
 }

@@ -248,5 +248,33 @@
     "phil_2_desc": "Colaboración transparente. Valoro la autenticidad y la claridad. Trabajo con un flujo colaborativo, compartiendo el progreso a menudo.",
     "phil_3_title": "Soporte posterior",
     "phil_3_desc": "Entregas fiables. Mi compromiso va más allá de la exportación final. Entrego assets organizados con documentación técnica."
+  },
+  "about": {
+    "page_title": "SOBRE MÍ",
+    "hero_title": "Donde el arte encuentra el código",
+    "hero_p1": "¡Hola! Soy Nerea Wenting Llugany Montoya. Bienvenid@ a mi portafolio. Soy una diseñadora creativa multimedia impulsada por una profunda curiosidad sobre la experiencia humana detrás de la pantalla. Creo que la creación digital es más que polígonos; se trata de transformar ideas abstractas en realidades jugables y emocionales.",
+    "hero_p2": "Prospero en el terreno intermedio entre el código y el lienzo. Ya sea creando animaciones 3D/2D, construyendo VFX en Unity y Unreal, o diseñando assets de juego, me aseguro de que cada pieza no solo sea visualmente hermosa, sino que funcione perfectamente.",
+    "btn_resume": "Descargar CV",
+    "btn_portfolio": "Ver Portafolio",
+    "exp_badge": "EXPERIENCIA",
+    "exp_title": "Mi trayectoria",
+    "exp_list": [
+      { "role": "Diseñadora gráfica y motion graphics", "company": "Freelance", "date": "Sept 2023 - actualidad" },
+      { "role": "Becaria Multimedia", "company": "Positive Ma (Corea)", "date": "Jun 2025 - Ago 2025" },
+      { "role": "Diseñadora Gráfica", "company": "Mireia", "date": "Sept 2025 - actualidad" },
+      { "role": "Estudiante Universitaria", "company": "Grado en Multimedia, Aplicaciones y Videojuegos", "date": "Sept 2022 - Actualidad" }
+    ],
+    "lang_badge": "REGIONES DESBLOQUEADAS"
+  },
+  "languages": {
+    "es": "Español",
+    "ca": "Catalán",
+    "en": "Inglés",
+    "fr": "Francés",
+    "zh": "Chino",
+    "ko": "Coreano",
+    "native": "NATIVO",
+    "en_level": "CERTIFICADO AVANZADO",
+    "fr_level": "INTERMEDIO B2"
   }
 }
