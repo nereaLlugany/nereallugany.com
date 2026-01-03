@@ -224,5 +224,29 @@
     "a5": "Actualizo el portafolio trimestralmente y agrego nuevos estudios de caso significativos a medida que terminan, para que el sitio refleje mis habilidades y disponibilidad actuales.",
     "q6": "¿Sigues buenas prácticas de código y diseño (control de versiones, nombres consistentes, documentación)?",
     "a6": "Sí, para proyectos digitales o basados en código uso control de versiones y comento el código; para diseño organizo capas, nombro elementos lógicamente y mantengo documentación para los entregables."
+  },
+  "services": {
+    "page_title": "SERVICIOS",
+    "explore_design": "Explorar diseños",
+    "view_motion": "Ver motion",
+    "explore_anim": "Explorar animación",
+    "get_demo": "Ver demo",
+    "graphic": "Diseño Gráfico",
+    "graphic_desc": "Sistemas de marca y visuales de campaña diseñados para convertir en web, publicidad, impresión y merchandising físico.",
+    "graphic_list": ["Identidad de marca", "Creatividad de campaña", "Kits para redes sociales", "Packaging y merch", "Exportación impresión", "UI e Iconos", "Plantillas"],
+    "motion": "Motion Graphics",
+    "motion_desc": "Trailers cinematográficos y micro-animaciones adaptadas al rendimiento, desde videos principales hasta cortes de 6s para redes.",
+    "motion_list": ["Videos promocionales", "Cortes publicitarios", "Branding animado", "Micro-contenidos en bucle", "Composición y acabado", "Packs de campaña", "Plantillas de motion"],
+    "anim": "Animación 2D y 3D",
+    "anim_desc": "Desde movimiento 2D estilizado hasta personajes 3D de producción y pipelines de assets listos para Unity y Unreal.",
+    "anim_list": ["Animación 2D", "Modelado y texturizado 3D", "Assets listos para juegos", "Rigging y ciclos", "Turntables de producto", "VFX en tiempo real"],
+    "phil_badge": "MI FILOSOFÍA",
+    "phil_title": "Qué esperar",
+    "phil_1_title": "Diseño centrado en el usuario",
+    "phil_1_desc": "No solo ejecuto tareas, profundizo para entender las necesidades reales de tus usuarios.",
+    "phil_2_title": "Comunicación clara",
+    "phil_2_desc": "Colaboración transparente. Valoro la autenticidad y la claridad. Trabajo con un flujo colaborativo, compartiendo el progreso a menudo.",
+    "phil_3_title": "Soporte posterior",
+    "phil_3_desc": "Entregas fiables. Mi compromiso va más allá de la exportación final. Entrego assets organizados con documentación técnica."
   }
 }

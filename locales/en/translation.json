@@ -224,5 +224,29 @@
     "a5": "I refresh the portfolio quarterly and add significant new case studies as they finish, so the site reflects my current skills and availability.",
     "q6": "Do you follow coding / design best practices (version control, consistent naming, documentation)?",
     "a6": "Yes, for digital or code-based projects I use version control and comment code; for design I organise layers, name elements logically, and keep documentation for deliverables."
+  },
+  "services": {
+    "page_title": "SERVICES",
+    "explore_design": "Explore designs",
+    "view_motion": "View motion",
+    "explore_anim": "Explore animations",
+    "get_demo": "Get demo",
+    "graphic": "Graphic Design",
+    "graphic_desc": "Brand systems and campaign visuals designed to convert across web, ads, print and physical merchandise.",
+    "graphic_list": ["Brand Identity", "Campaign creative", "Ad & social kits", "Packaging & merch", "Print exports (any format)", "UI & Icons", "Templates"],
+    "motion": "Motion Graphics",
+    "motion_desc": "Cinematic trailers and micro-motion tailored for performance, from hero videos to 6s social cutdowns.",
+    "motion_list": ["Promo & explainer videos", "Ad cutdowns", "Animated branding", "Loopable & micro-content", "Compositing & finishing", "Campaign packs", "Motion templates"],
+    "anim": "2D & 3D Animation",
+    "anim_desc": "From stylized 2D motion to production 3D characters and game-ready asset pipelines for Unity and Unreal.",
+    "anim_list": ["2D animation", "3D modeling & texturing", "Game-ready assets", "Rigging & animation cycles", "Turntables & product visuals", "Realtime VFX & shaders"],
+    "phil_badge": "MY PHILOSOPHY",
+    "phil_title": "What to expect",
+    "phil_1_title": "User centric design",
+    "phil_1_desc": "I don't just execute tasks, I dig deep to understand the real needs of your users.",
+    "phil_2_title": "Clear communication",
+    "phil_2_desc": "Transparent collaboration. I value authenticity and keeping things clear. I work with a collaborative workflow, sharing progress often.",
+    "phil_3_title": "After Support",
+    "phil_3_desc": "Reliable Handoffs. My commitment extends beyond the final export. I deliver organized assets with technical documentation."
   }
 }
