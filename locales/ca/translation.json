@@ -276,5 +276,17 @@
     "native": "NATIU",
     "en_level": "CERTIFICAT AVANÇAT",
     "fr_level": "INTERMEDI B2"
+  }, 
+  "hobbies": {
+    "badge": "EL MEU MÓN",
+    "title": "El que faig \nquan no estic treballant",
+    "travel_title": "Explorar i Viatjar",
+    "travel_desc": "La curiositat és el meu motor. M'encanta caminar per la natura o viatjar a noves ciutats per entendre diferents cultures.",
+    "cinema_title": "Cinema i Cultura",
+    "cinema_desc": "Sóc consumidora d'històries. Ja sigui escoltant música o analitzant la cinematografia en pel·lícules, l'art alimenta la meva feina.",
+    "lang_title": "Aprendre Idiomes",
+    "lang_desc": "Em desafio aprenent nous idiomes. Connecta amb el meu objectiu de treballar internacionalment i entendre diverses perspectives.",
+    "creative_title": "Joc Creatiu",
+    "creative_desc": "Crear és un hàbit, no només una feina. Passo el meu temps lliure esbossant, dibuixant o experimentant amb micro-animacions per diversió."
   }
 }

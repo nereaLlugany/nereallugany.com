@@ -276,5 +276,17 @@
     "native": "NATIVO",
     "en_level": "CERTIFICADO AVANZADO",
     "fr_level": "INTERMEDIO B2"
+  },
+  "hobbies": {
+    "badge": "MI MUNDO",
+    "title": "Lo que hago \ncuando no estoy trabajando",
+    "travel_title": "Explorar y Viajar",
+    "travel_desc": "La curiosidad es mi motor. Me encanta caminar por la naturaleza o viajar a nuevas ciudades para entender diferentes culturas.",
+    "cinema_title": "Cine y Cultura",
+    "cinema_desc": "Consumo historias constantemente. Ya sea escuchando música o analizando la cinematografía en películas, el arte alimenta mi trabajo.",
+    "lang_title": "Aprender Idiomas",
+    "lang_desc": "Me desafío aprendiendo nuevos idiomas. Conecta con mi objetivo de trabajar internacionalmente y entender diversas perspectivas.",
+    "creative_title": "Juego Creativo",
+    "creative_desc": "Crear es un hábito, no solo un trabajo. Paso mi tiempo libre bocetando, dibujando o experimentando con micro-animaciones por diversión."
   }
 }

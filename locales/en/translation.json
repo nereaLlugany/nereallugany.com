@@ -276,5 +276,17 @@
     "native": "NATIVE",
     "en_level": "ADVANCED CERTIFICATE",
     "fr_level": "INTERMEDIATE B2"
+  },
+  "hobbies": {
+    "badge": "MY WORLD",
+    "title": "When I do \nwhen I am not working",
+    "travel_title": "Explore & Travel",
+    "travel_desc": "Curiosity is my main engine. I love walking through nature or traveling to new cities to understand different cultures.",
+    "cinema_title": "Cinema & Culture",
+    "cinema_desc": "I am a consumer of stories. Whether listening to music or analyzing the cinematography in movies, art fuels my work.",
+    "lang_title": "Language Learning",
+    "lang_desc": "I challenge myself by learning new languages. It connects to my goal of working internationally and understanding diverse perspectives.",
+    "creative_title": "Creative Play",
+    "creative_desc": "Creation is a habit, not just a job. I spend my free time sketching, drawing, or experimenting with micro-animations just for fun."
   }
 }
